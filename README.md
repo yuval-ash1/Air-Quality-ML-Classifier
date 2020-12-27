@@ -6,6 +6,7 @@ CONTENTS OF THIS FILE
 INTRODUCTION
 ------------
  This research project was part of the Machine Learning class at Ramapo College (CMPS-320).
+ 
  It presents the classification of air quality levels in India based on data that has been collected prior to and during the Covid-19 pandemic.
  The data was collected in order to identify the effects of shutting down the world for several months on the quality of air and could later be used to define the necessary precautions that need to be taken in order to decrease humans’ negative effects on the quality of air and our environment as a whole.
  
