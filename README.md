@@ -2,7 +2,9 @@
 
 CONTENTS OF THIS FILE
 ---------------------
-
+ * Introduction
+ * Additional Information
+ 
 INTRODUCTION
 ------------
  This research project was part of the Machine Learning class at Ramapo College (CMPS-320).
@@ -24,4 +26,7 @@ INTRODUCTION
  * Support Vector Machine
  * Extra Trees
  
- 
+ ADDITIONAL INFORMATION
+ ----------------------
+ * The code used to generate the confusion matrices is attached.
+ * The dataset used for this project is attached as well.
