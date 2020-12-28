@@ -14,9 +14,9 @@ INTRODUCTION
  
  The Dataset used in this research was extracted from Kaggle and is called “Air Quality: multiclass classification”.
  
- The dataset consists of 16 columns and 26,219 entries. Each entry contains the date and city in which the data was measured, as well as different columns containing the levels of different pollutants such as PM2.5, PM10, O3, etc. in the air. The last column is called "Air_Quality" and contains the quality of air in that specific entry based on the different pollutant levels. The "Air_Quality" column is classified into 6 different categories- Severe, Very Poor, Poor, Moderate, Good, and Satisfactory.
+ The dataset consists of 16 columns and 26,219 entries. Each entry contains the date and city in which the data was measured, as well as different columns containing the levels of different pollutants such as PM2.5, PM10, O3, etc. in the air. The last column is called "Air_quality" and contains the quality of air in that specific entry based on the different pollutant levels. The "Air_quality" column is classified into 6 different categories- Severe, Very Poor, Poor, Moderate, Good, and Satisfactory.
  
- The first step in this project was to generate and additional column- "Air_Quality_numeric", which will hold values from 0 to 5, each representing an air quality category. Later, different Machine Learning classification models were applied to the dataset.
+ The first step in this project was to generate and additional column- "Air_quality_numeric", which will hold values from 0 to 5, each representing an air quality category. Later, different Machine Learning classification models were applied to the dataset.
  
  The following models were experimented with in this research:
  * Stochastic Gradient Descent
